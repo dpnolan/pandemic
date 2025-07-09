@@ -7,7 +7,11 @@ Notebooks 1 to 4 are in IPYNB and static copies in HTML
 Datasets and papers used in the analysis are included here also.  
 
 __Summary__\
-The presentation will introduce common ODE models for epidemic modeling, focusing on their application and historical advocacy in Ireland. A Jupyter notebook will demonstrate a Markov Chain Monte Carlo model fitted to Irish COVID-19 data, providing insights into infection lifetimes, forecast estimates, and sensitivity analyses for Ireland. The presenter will also discuss Python libraries for this work, comparing the experience to R/STAN. The target audience includes individuals with some Python proficiency and an interest in epidemic modeling but limited prior experience. A key objective is to identify community members who have experience with similar models during the pandemic. Ultimately, the presentation aims to survey how data was collected, applied to decisions, and communicated, fostering a community discussion rather than simply promoting the models.
+The presentation will introduce common ODE models for epidemic modeling, focusing on their application and historical advocacy in Ireland. A Jupyter notebook will demonstrate a Markov Chain Monte Carlo model fitted to Irish COVID-19 data, providing insights into infection lifetimes, forecast estimates, and sensitivity analyses for Ireland. The presenter will also discuss Python libraries for this work.  
+
+The target audience includes individuals with some Python proficiency and an interest in epidemic modeling but limited prior experience. A key objective is to identify community members who have experience with similar models during the pandemic.
+
+Ultimately, the presentation aims to survey how data was collected, applied to decisions, and communicated, fostering a community discussion within Python and in Irish society more generally rather than simply promoting the models. 
 
 __Contact__\
 Peter Nolan\
