@@ -1,5 +1,5 @@
 <p align="left">
-<img src="./COVID_stack.JPEG" alt="COVID plushie and books" width="200" height=300>
+<img src="./COVID_stack.JPEG" alt="COVID plushie and books" width="300" height=450>
 </p>
 
 __Python Ireland July 2025 Meetup__\
