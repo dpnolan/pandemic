@@ -1,4 +1,4 @@
-![COVID and books](./COVID_stack.jpeg)
+![COVID and books](./COVID_stack.JPEG)
 
 __Python Ireland July 2025 Meetup__\
 __Modelling the COVID Pandemic in Ireland with Python__
