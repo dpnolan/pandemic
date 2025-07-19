@@ -1,4 +1,6 @@
-![COVID and books](./COVID_stack.JPEG)
+<p align="left">
+<img src="./COVID_stack.JPEG" alt="COVID plushie and books" width="400" height=600>
+</p>
 
 __Python Ireland July 2025 Meetup__\
 __Modelling the COVID Pandemic in Ireland with Python__
