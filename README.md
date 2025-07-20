@@ -8,7 +8,8 @@ __Modelling the COVID Pandemic in Ireland with Python__
 __Files__\
 Presentation file is in Keynote, PPT and PDF\
 Notebooks 1 to 4 are in IPYNB and static copies in HTML\
-Datasets and papers used in the analysis are included here also.
+Datasets are in the Notebook directory too\
+Papers used for data and methodology guidance are included here also.
 
 __Summary__\
 The presentation will introduce common ODE models for epidemic modeling, focusing on their application and historical advocacy in Ireland. A Jupyter notebook will demonstrate a Markov Chain Monte Carlo model fitted to Irish COVID-19 data, providing insights into infection lifetimes, forecast estimates, and sensitivity analyses for Ireland. The presenter will also discuss Python libraries for this work.  
