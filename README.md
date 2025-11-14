@@ -6,7 +6,7 @@ __Python Ireland November 2025__\
 __Modelling the COVID Pandemic in Ireland with Python__
 
 __Files__\
-Presentation files are given in Keynote, Powerpoint and PDF\ 
+Presentation files are given in Keynote, Powerpoint and PDF
 PyMC notebooks 1 to 4 are in IPYNB and static copies in HTML.  Created and run in Conda\
 Datasets are in the Notebook directories too\
 Important papers used for data and methodology guidance are included in the directory Papers\
