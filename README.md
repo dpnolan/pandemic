@@ -9,7 +9,7 @@ __Files__\
 Presentation files are given in Keynote, Poweroint and PDF.\ 
 PyMC notebooks 1 to 4 are in IPYNB and static copies in HTML.  Created and run in Conda\
 Datasets are in the Notebook directories too\
-Important papers used for data and methodology guidance are included in the directory here.  
+Important papers used for data and methodology guidance are included in the directory Papers\
 
 __Summary__\
 The presentation will introduce common ODE models for epidemic modeling, focusing on their application and historical advocacy in Ireland. 
