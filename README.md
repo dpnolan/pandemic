@@ -32,10 +32,10 @@ __Files__
 * Datasets are in the Notebook directories too <br>
 * Important papers used for data and methodology guidance are included in the directory Papers <br>
 
-__Contact__\
-Peter Nolan\
-databeaker@gmail.com\
-https://github.com/dpnolan/pandemic
+__Contact__<br>
+Peter Nolan<br>
+databeaker@gmail.com<<br>
+https://github.com/dpnolan/pandemic<br>
 
 I'm a Dublin-raised and Europe-based risk and data analyst and communicator specialising in financial,  economic analysis.
 Consultant business and risk analyst, product and programme manager.  
