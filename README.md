@@ -2,26 +2,27 @@
 <img src="./COVID_stack.JPEG" alt="COVID plushie and books" width="300" height=450>
 </p>
 
-__Python Ireland November 2025__\
+__Python Ireland November 2025__
 __Modelling the COVID Pandemic in Ireland with Python__
 
-__Files__\
+__Files__
 Presentation files are given in Keynote, Powerpoint and PDF<br>
 PyMC notebooks 1 to 4 are in IPYNB and static copies in HTML.  Created and run in Conda on Windows 11 workstation. <br>
 cmdpystan notebooks are in IPYNB and static copies also.  Created and run in Windows Subsystem for Linux on Windows 11 workstation. <br>
 Datasets are in the Notebook directories too <br>
 Important papers used for data and methodology guidance are included in the directory Papers <br>
 
-__Summary__\
+__Summary__
 The presentation will introduce common ODE models for epidemic modeling, focusing on their application and historical advocacy in Ireland. 
 
 Models in Jupyter notebook demonstrate how Markov Chain Monte Carlo models were estimated.  
 
 Three main libraries were used 
-PyMC to estimate
-CmdPyStan https://mc-stan.org/cmdstanpy/ for estimates as an interface to STAN https://mc-stan.org/
-ArviZ https://python.arviz.org/en/stable/ for diagnostics
+* PyMC for estimation
+* CmdPyStan https://mc-stan.org/cmdstanpy/ for estimates as an interface to STAN https://mc-stan.org/
+* ArviZ https://python.arviz.org/en/stable/ for diagnostics
 
+__Data__
 COVID-19 data examples include
 * Influenza infection in a school in England, a common case-study for epidemic models
 * A simulated SIR model, which is then re-estimated.  
