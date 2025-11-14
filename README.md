@@ -34,8 +34,8 @@ __Files__
 
 __Contact__<br>
 Peter Nolan<br>
-databeaker@gmail.com<<br>
-https://github.com/dpnolan/pandemic<br>
+databeaker@gmail.com <br>
+https://github.com/dpnolan/pandemic <br>
 
 I'm a Dublin-raised and Europe-based risk and data analyst and communicator specialising in financial,  economic analysis.
 Consultant business and risk analyst, product and programme manager.  
