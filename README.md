@@ -19,7 +19,7 @@ Three main libraries were used
 * [CmdPyStan](https://mc-stan.org/cmdstanpy/) for estimates as an interface to the [STAN language](https://mc-stan.org/) <br>
 * [ArviZ](https://python.arviz.org/en/stable/) for diagnostics <br>
 
-__Data__
+__Data__ <br>
 COVID-19 data examples include <br>
 * Influenza infection in a school in England, a common case-study for epidemic models
 * A simulated SIR model, which is then re-estimated.  
