@@ -13,12 +13,11 @@ The target audience includes individuals with some Python proficiency and an int
 The presentation aims to survey how data was collected, applied to decisions, and communicated, fostering a community discussion within Python and in Irish society more generally rather than simply promoting the models. 
 
 
-[Link text](https://example.com)
 __Python Tools__
 Three main libraries were used 
 * [PyMC](https://www.pymc.io/welcome.html) for estimation <br>
-* CmdPyStan https://mc-stan.org/cmdstanpy/ for estimates as an interface to STAN https://mc-stan.org/ <br>
-* ArviZ https://python.arviz.org/en/stable/ for diagnostics <br>
+* [CmdPyStan](https://mc-stan.org/cmdstanpy/) for estimates as an interface to the [STAN language](https://mc-stan.org/) <br>
+* [ArviZ](https://python.arviz.org/en/stable/) for diagnostics <br>
 
 __Data__
 COVID-19 data examples include
