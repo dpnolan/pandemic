@@ -2,8 +2,18 @@
 <img src="./COVID_stack.JPEG" alt="COVID plushie and books" width="300" height=450>
 </p>
 
-__Python Ireland November 2025__
-__Modelling the COVID Pandemic in Ireland with Python__
+__Python Ireland November 2025__ <br>
+__Modelling the COVID Pandemic in Ireland with Python__ <br>
+
+__Summary__
+The presentation will introduce common ODE models for epidemic modeling, focusing on their application and historical advocacy in Ireland. 
+
+Models in Jupyter notebook demonstrate how Markov Chain Monte Carlo models were estimated.  
+
+
+The target audience includes individuals with some Python proficiency and an interest in epidemic modeling but limited prior experience. A key objective is to identify community members who have experience with similar models during the pandemic.
+
+Ultimately, the presentation aims to survey how data was collected, applied to decisions, and communicated, fostering a community discussion within Python and in Irish society more generally rather than simply promoting the models. 
 
 __Files__
 Presentation files are given in Keynote, Powerpoint and PDF<br>
@@ -12,15 +22,11 @@ cmdpystan notebooks are in IPYNB and static copies also.  Created and run in Win
 Datasets are in the Notebook directories too <br>
 Important papers used for data and methodology guidance are included in the directory Papers <br>
 
-__Summary__
-The presentation will introduce common ODE models for epidemic modeling, focusing on their application and historical advocacy in Ireland. 
-
-Models in Jupyter notebook demonstrate how Markov Chain Monte Carlo models were estimated.  
 
 Three main libraries were used 
-* PyMC for estimation
-* CmdPyStan https://mc-stan.org/cmdstanpy/ for estimates as an interface to STAN https://mc-stan.org/
-* ArviZ https://python.arviz.org/en/stable/ for diagnostics
+* PyMC for estimation <br>
+* CmdPyStan https://mc-stan.org/cmdstanpy/ for estimates as an interface to STAN https://mc-stan.org/ <br>
+* ArviZ https://python.arviz.org/en/stable/ for diagnostics <br>
 
 __Data__
 COVID-19 data examples include
@@ -29,9 +35,6 @@ COVID-19 data examples include
 * Irish case data from February to November 2020 used in modelling by the Irish Epidemiological Modelling Advisory Group (IEMAG) models used by NPHET and the Irish government
 
 
-The target audience includes individuals with some Python proficiency and an interest in epidemic modeling but limited prior experience. A key objective is to identify community members who have experience with similar models during the pandemic.
-
-Ultimately, the presentation aims to survey how data was collected, applied to decisions, and communicated, fostering a community discussion within Python and in Irish society more generally rather than simply promoting the models. 
 
 __Contact__\
 Peter Nolan\
