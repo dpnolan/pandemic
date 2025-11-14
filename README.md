@@ -6,10 +6,11 @@ __Python Ireland November 2025__\
 __Modelling the COVID Pandemic in Ireland with Python__
 
 __Files__\
-Presentation files are given in Keynote, Powerpoint and PDF
-PyMC notebooks 1 to 4 are in IPYNB and static copies in HTML.  Created and run in Conda\
-Datasets are in the Notebook directories too\
-Important papers used for data and methodology guidance are included in the directory Papers\
+Presentation files are given in Keynote, Powerpoint and PDF<br>
+PyMC notebooks 1 to 4 are in IPYNB and static copies in HTML.  Created and run in Conda on Windows 11 workstation. <br>
+cmdpystan notebooks are in IPYNB and static copies also.  Created and run in Windows Subsystem for Linux on Windows 11 workstation. <br>
+Datasets are in the Notebook directories too <br>
+Important papers used for data and methodology guidance are included in the directory Papers <br>
 
 __Summary__\
 The presentation will introduce common ODE models for epidemic modeling, focusing on their application and historical advocacy in Ireland. 
