@@ -17,12 +17,15 @@ The presentation will introduce common ODE models for epidemic modeling, focusin
 
 Models in Jupyter notebook demonstrate how Markov Chain Monte Carlo models were estimated.  
 
-Three main libraries were used PyMC and CmdPyStan for estimates
-
 COVID-19 data examples include
-*Influenza infection in a school in England, a common case-study for epidemic models
-*A simulated SIR model, which is then re-estimated.  
-*Irish case data from February to November 2020 used in the first run of IEMAG models used by the government
+* Influenza infection in a school in England, a common case-study for epidemic models
+* A simulated SIR model, which is then re-estimated.  
+* Irish case data from February to November 2020 used in modelling by the Irish Epidemiological Modelling Advisory Group (IEMAG) models used by NPHET and the Irish government
+
+Three main libraries were used 
+PyMC to estimate
+CmdPyStan https://mc-stan.org/cmdstanpy/ for estimates as an interface to STAN https://mc-stan.org/
+ArviZ for diagnostics
 
 The target audience includes individuals with some Python proficiency and an interest in epidemic modeling but limited prior experience. A key objective is to identify community members who have experience with similar models during the pandemic.
 
