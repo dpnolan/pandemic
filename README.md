@@ -5,7 +5,7 @@
 __Python Ireland November 2025__ <br>
 __Modelling the COVID Pandemic in Ireland with Python__ <br>
 
-__Summary__
+__Summary__ <br> 
 The presentation will introduce common ODE models for epidemic modeling, focusing on their application and historical advocacy in Ireland. 
 
 Models in Jupyter notebook demonstrate how Markov Chain Monte Carlo models were estimated.  
