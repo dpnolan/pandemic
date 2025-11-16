@@ -6,17 +6,14 @@ __Python Ireland November 2025__ <br>
 __Modelling the COVID Pandemic in Ireland with Python__ <br>
 
 __Summary__ <br> 
-The presentation will introduce common differential models for epidemic models, focusing on their estimation using Bayesian techniques in Python.    
+The presentation will introduce common differential models for epidemic models, focusing on their estimation using Bayesian techniques in Python.   
 
-The target audience includes individuals with some Python proficiency and an interest in epidemic modeling but limited prior experience. A key objective is to identify community members who have experience with similar models during the pandemic.
-
-The presentation aims to survey how data was collected, applied to decisions, and communicated, fostering a community discussion within Python and in Irish society more generally rather than simply promoting the models. 
-
+The target audience includes individuals with some Python proficiency and an interest in epidemic modeling but limited prior experience.  
 
 __Python Tools__
 Three main libraries were used 
-* [PyMC](https://www.pymc.io/welcome.html) for estimation <br>
-* [CmdPyStan](https://mc-stan.org/cmdstanpy/) for estimates as an interface to the [STAN language](https://mc-stan.org/) <br>
+* [PyMC](https://www.pymc.io/welcome.html) for estimation.  These models are in the PYMC directory. <br>
+* [CmdPyStan](https://mc-stan.org/cmdstanpy/) for estimates as an interface to the [STAN language](https://mc-stan.org/) These models are in the STAN directory, with STAN files in the STAN/STAN subdirectory <br>
 * [ArviZ](https://python.arviz.org/en/stable/) for diagnostics <br>
 
 __Data__ <br>
@@ -27,8 +24,8 @@ COVID-19 data examples include <br>
 
 __Files__
 * Presentation files are given in Keynote, Powerpoint and PDF<br>
-* PyMC notebooks 1 to 4 are in IPYNB and static copies in HTML.  Created and run in Conda on Windows 11 workstation. <br>
-* cmdpystan notebooks are in IPYNB and static copies also.  Created and run in Windows Subsystem for Linux on Windows 11 workstation. <br>
+* PYMC directory holds PyMC notebooks 1 to 4 are in IPYNB and static copies in HTML.  Created and run in Conda on Windows 11 workstation. <br>
+* STAN directory holds STAN models.  cmdpystan notebooks are in IPYNB and static copies also.  Created and run in Windows Subsystem for Linux on Windows 11 workstation. <br>
 * Datasets are in the Notebook directories too <br>
 * Important papers used for data and methodology guidance are included in the directory Papers <br>
 
