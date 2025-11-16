@@ -1,1 +1,1 @@
-[Colab](https://colab.research.google.com/drive/1vLAotUMK6LFlzH6m3pw2cas35vNaAI2X)
+[Colab notebook](https://colab.research.google.com/drive/1vLAotUMK6LFlzH6m3pw2cas35vNaAI2X)
