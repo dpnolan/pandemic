@@ -17,7 +17,7 @@ Three main libraries were used
 * [ArviZ](https://python.arviz.org/en/stable/) for diagnostics <br>
 
 __Data__ <br>
-COVID-19 data examples include <br>
+COVID-19 data examples include:
 * Influenza infection in a school in England, a common case-study for epidemic models
 * A simulated SIR model, which is then re-estimated.  
 * Irish case data from February to November 2020 used in modelling by the Irish Epidemiological Modelling Advisory Group (IEMAG) models used by NPHET and the Irish government
