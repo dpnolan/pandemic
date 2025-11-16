@@ -13,7 +13,7 @@ The target audience includes individuals with some Python proficiency and an int
 __Python Tools__
 Three main libraries were used 
 * [PyMC](https://www.pymc.io/welcome.html) for estimation.  These models are in the PYMC directory. <br>
-* [CmdPyStan](https://mc-stan.org/cmdstanpy/) for estimates as an interface to the [STAN language](https://mc-stan.org/) These models are in the STAN directory, with STAN files in the STAN/STAN subdirectory <br>
+* [CmdPyStan](https://mc-stan.org/cmdstanpy/) for estimates as an interface to the [STAN language](https://mc-stan.org/).  These models are in the STAN directory, with STAN files in the STAN/STAN subdirectory and the notebook in [Google Colab](https://colab.research.google.com/drive/1vLAotUMK6LFlzH6m3pw2cas35vNaAI2X?authuser=2#scrollTo=HTe-Ef7q5ajY&uniqifier=17) <br>
 * [ArviZ](https://python.arviz.org/en/stable/) for diagnostics <br>
 
 __Data__ <br>
